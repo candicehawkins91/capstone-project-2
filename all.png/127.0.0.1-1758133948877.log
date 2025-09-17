@@ -1,8 +1,0 @@
-(index):266 Not allowed to load local resource: file:///C:/Users/candi/projects/cp2/all.png/tech2.jpg
-(index):266 Not allowed to load local resource: file:///C:/Users/candi/projects/cp2/all.png/pj1.png
-(index):266 Not allowed to load local resource: file:///C:/Users/candi/projects/cp2/all.png/pj2.png
-(index):96  GET http://127.0.0.1:5500/pj4.png 404 (Not Found)
-(index):89  GET http://127.0.0.1:5500/tech1.jpg 404 (Not Found)
-(index):144  GET http://127.0.0.1:5500/me1.png 404 (Not Found)
-(index):267  GET http://127.0.0.1:5500/secret-variables.js net::ERR_ABORTED 404 (Not Found)
-app.js:1 Hello from app.js
