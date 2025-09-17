@@ -84,3 +84,14 @@ Describe your project here. What does your application do? What APIs and AI feat
 
 ## 🙌 Acknowledgements  
 List any people, resources, or APIs you used while working on this project.  
+
+
+<!--
+
+chore: - For maintenance tasks, setup, or non-functional changes (like adding files, updating dependencies, or initial project setup)
+feature: - For new functionality or features you’re adding to your project
+fix: - For bug fixes or corrections
+docs: - For documentation changes
+style: - For formatting, styling, or code style changes
+refactor: - For code restructuring without changing functionality
+-->
