@@ -1,7 +1,8 @@
 # capstone-project-2
 
 
-# 🎯 Capstone Project: [Your Project Name]
+# 🎯 Capstone Project: Candice Hawkins
+ 
 
 ## 📖 About  
 Describe your project here. What does your application do? What APIs and AI features does it integrate? Why is it useful or interesting?  
